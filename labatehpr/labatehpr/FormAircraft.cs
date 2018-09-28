@@ -22,7 +22,7 @@ namespace labatehpr
             InitializeComponent();
         }
         /// <summary>
-        /// Метод отрисовки машины
+        /// Метод отрисовки 
         /// </summary>
         private void Draw()
         {
