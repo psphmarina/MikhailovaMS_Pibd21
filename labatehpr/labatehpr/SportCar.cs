@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Drawing;
+using System.Drawing;
+
 
 namespace labatehpr
 {
@@ -21,11 +22,11 @@ namespace labatehpr
 
 
         /// <summary>
-        /// Левая координата отрисовки автомобиля
+        /// Левая координата отрисовки  
         /// </summary>
         private float _startPosX;
         /// <summary>
-        /// Правая кооридната отрисовки автомобиля
+        /// Правая кооридната отрисовки  
         /// </summary>
         private float _startPosY;
         /// <summary>
